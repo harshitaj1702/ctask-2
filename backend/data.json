@@ -1,0 +1,42 @@
+[
+  {
+    "path": "space_data/data/20220218/00000.zip",
+    "url": "https://example.com/00000.zip",
+    "size": "46MB"
+  },
+  {
+    "path": "space_data/data/20220218/00001.zip",
+    "url": "https://example.com/00001.zip",
+    "size": "152MB"
+  },
+  {
+    "path": "space_data/data/20220218/00002.zip",
+    "url": "https://example.com/00002.zip",
+    "size": "100MB"
+  },
+  {
+    "path": "space_data/data/20220218/00003.zip",
+    "url": "https://example.com/00003.zip",
+    "size": "15MB"
+  },
+  {
+    "path": "space_data/data/20220218/00004.zip",
+    "url": "https://example.com/00004.zip",
+    "size": "86MB"
+  },
+  {
+    "path": "space_data/data/20220218/00005.zip",
+    "url": "https://example.com/00005.zip",
+    "size": "200MB"
+  },
+  {
+    "path": "space_data/data/20220218/00006.zip",
+    "url": "https://example.com/00006.zip",
+    "size": "45MB"
+  },
+  {
+    "path": "space_data/data/20220218/00007.zip",
+    "url": "https://example.com/000007.zip",
+    "size": "89MB"
+  }
+]

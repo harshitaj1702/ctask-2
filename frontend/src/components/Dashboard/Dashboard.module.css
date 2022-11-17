@@ -1,0 +1,26 @@
+.flexContainer {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  background: white;
+  width: 80px;
+  border-right: 2px solid #f2f2f2;
+}
+.flexContainer > * {
+  margin: 1em 0;
+}
+.flexContainer .flexLabel {
+  flex-basis: 65px;
+  flex-shrink: 0;
+}
+.border {
+  background-color: #f9fbfc;
+  border-radius: 10px;
+}
+
+.borderDark {
+  background-color: #3339cd;
+  border-radius: 10px;
+  border: 1px solid #6B6DE5;
+}

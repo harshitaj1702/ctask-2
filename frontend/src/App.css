@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+@font-face {
+  font-family: "FreeSans";
+  src: local("FreeSans"), url(./fonts/FreeSans.otf) format("opentype");
+}
+
+* {
+  font-size: 100%;
+  font-family: FreeSans !important;
+ }
